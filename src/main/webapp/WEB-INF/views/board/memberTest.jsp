@@ -110,7 +110,6 @@
                         <label class="control-label" for="user_phoneNum">핸드폰번호</label>
                         <input class="form-control" type="text" id="user_phoneNum" name="user_phoneNum"  value="${mem.user_phoneNum}"
             style= "height:30px; font-size:16px;"/>
-                        	<br/>
                      </div>
          
                   </form>
